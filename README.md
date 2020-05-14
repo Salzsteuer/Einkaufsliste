@@ -20,3 +20,6 @@
    1.1. Da hats mir nicht gefallen
 2. Deshalb arbeite ich jetzt hier
 
+## Hobbies
+Sehr lange Spaziergänge
+Bingoabende
