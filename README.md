@@ -2,11 +2,6 @@
 
 ## **Lebenslauf**
 
-
-![profilbild](unnamed.png)
-
-
-
 # Me llamo Ich
 
 ----
