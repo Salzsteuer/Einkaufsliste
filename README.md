@@ -13,12 +13,14 @@
 
 > hier könnte ich wohnen
 
+Text
+
+----
+
+Text
+
 ## Berufserfahrung
 1990- heute noch nicht so viel
 
 
--------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
--------------------     ----------------------------
+
