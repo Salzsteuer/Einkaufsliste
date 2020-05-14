@@ -7,23 +7,10 @@
 
 
 
-# Bruce Wayne
+# Me llamo Ich
 
-> +1 555 123456 • ceo@wayne-enterprises.com\
-> Wayne Manor, Gotham, USA
+> +1 555 123456 hier steht meine nummer ja• ceo@wayne-enterprises.com\ und hier schreibt man mich an
+> hier könnte ich wohnen
 
 ## Berufserfahrung
-1939 - heute
-:	**Wayne Enterprises**, Vorstandsvorsitzender
-
-1939 - heute
-:   **Fledermaus-Fanclub**, Verbrechensbekämpfer
-
-body {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    color: #000000;
-    width: 800px;
-    margin: auto;
-    background: #FFFFFF;
-    padding: 10px 10px 10px 10px;
-}
+1990- heute noch nicht so viel
