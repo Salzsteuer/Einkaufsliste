@@ -1,4 +1,4 @@
-# ***Benedikt Ruggaber LOKAL ***
+# *** Benedikt Ruggaber LOKAL ***
 
 ## **Lebenslauf**
 
