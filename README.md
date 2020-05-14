@@ -22,13 +22,5 @@
 
 1. Item one
    1. Sub item one
-   2. Sub item two
-   3. Sub item three
 2. Item two
 
-
-
-
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/enMumwvLAug" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
