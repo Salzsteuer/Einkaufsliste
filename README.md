@@ -10,7 +10,6 @@
 # Me llamo Ich
 
 > +1 555 123456  • ceo@enterprises.com\ 
-
 > hier könnte ich wohnen
 
 ## Berufserfahrung
