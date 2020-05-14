@@ -9,15 +9,13 @@
 
 # Me llamo Ich
 
+----
+
 > +1 555 123456  • ceo@enterprises.com\ 
 
 > hier könnte ich wohnen
 
-Text
-
 ----
-
-Text
 
 ## Berufserfahrung
 1990- heute noch nicht so viel
