@@ -9,7 +9,7 @@
 
 # Me llamo Ich
 
-> +1 555 123456 hier steht meine nummer ja• ceo@wayne-enterprises.com\ und hier schreibt man mich an
+> +1 555 123456 hier steht meine nummer ja• ceo@enterprises.com\ h
 > hier könnte ich wohnen
 
 ## Berufserfahrung
