@@ -20,15 +20,15 @@
 ## Berufserfahrung
 1990- heute noch nicht so viel
 
-1. Item one
-   1. Sub item one
-   2. Sub item two
-   3. Sub item three
-2. Item two
+<<<<<<< HEAD
 
+1. Hier ist Arbeitgeber nummero uno    
+   1.1. Da hats mir nicht gefallen
+2. Deshalb arbeite ich jetzt hier
 
+=======
+1. Hier ist Arbeitgeber nummero uno    
+   1.1. Da hats mir nicht gefallen
+2. Deshalb arbeite ich jetzt hier
 
-
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/enMumwvLAug" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+>>>>>>> 297e9a4c7389fd32c1a29548d55ace62ee8e6427
